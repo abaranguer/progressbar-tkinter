@@ -1,0 +1,1 @@
+Com fer servir progressbar de tkinter.
